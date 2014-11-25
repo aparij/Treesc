@@ -1,4 +1,4 @@
-treesc
+Treesc
 ======
 
 Decision trees in Scala. My first "serious" try at Scala.
